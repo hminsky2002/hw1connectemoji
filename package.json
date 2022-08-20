@@ -1,0 +1,30 @@
+{
+  "name": "hw1connectemoji",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hminsky2002/hw1connectemoji.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hminsky2002/hw1connectemoji/issues"
+  },
+  "homepage": "https://github.com/hminsky2002/hw1connectemoji#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "eslint": "^8.22.0",
+    "eslint-plugin-mocha": "^10.1.0",
+    "mocha": "^10.0.0"
+  },
+  "dependencies": {
+    "clear": "^0.1.0",
+    "readline-sync": "^1.4.10",
+    "wcwidth": "^1.0.1"
+  }
+}
